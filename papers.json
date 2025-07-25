@@ -1,0 +1,159 @@
+{
+  "journal_articles": [
+    {
+      "authors": [
+        "Manuel De Stefano",
+        "Fabiano Pecorelli",
+        "Dario Di Nucci",
+        "Fabio Palomba",
+        "Andrea De Lucia"
+      ],
+      "title": "The quantum frontier of software engineering: A systematic mapping study",
+      "journal": "Information and Software Technology",
+      "volume": "175",
+      "pages": "107525",
+      "year": 2024,
+      "doi": "10.1016/j.infsof.2024.107525",
+      "open_access": true
+    },
+    {
+      "authors": [
+        "Manuel De Stefano",
+        "Dario Di Nucci",
+        "Fabio Palomba",
+        "Andrea De Lucia"
+      ],
+      "title": "An empirical study into the effects of transpilation on quantum circuit smells",
+      "journal": "Empirical Software Engineering",
+      "volume": "29",
+      "issue": "3",
+      "pages": "61",
+      "year": 2024,
+      "doi": "10.6084/m9.figshare.23799210",
+      "open_access": true
+    },
+    {
+      "authors": [
+        "Antonio Trovato",
+        "Manuel De Stefano",
+        "Fabiano Pecorelli",
+        "Dario Di Nucci",
+        "Andrea De Lucia"
+      ],
+      "title": "Reformulating regression test suite optimization using quantum annealing - an empirical study",
+      "journal": "International Journal on Software Tools for Technology Transfer",
+      "volume": "26",
+      "issue": "6",
+      "pages": "767–780",
+      "year": 2024,
+      "doi": "10.1007/s10009-024-00775-w",
+      "preprint": "https://doi.org/10.48550/arXiv.2411.15963",
+      "open_access": false
+    },
+    {
+      "authors": [
+        "Vita Santa Barletta",
+        "Danilo Caivano",
+        "Mirko De Vincentiis",
+        "Anibrata Pal",
+        "Michele Scalera"
+      ],
+      "title": "Hybrid quantum architecture for smart city security",
+      "journal": "Journal of Systems and Software",
+      "year": 2024,
+      "pages": "112161",
+      "doi": "10.1016/j.jss.2024.112161",
+      "issn": "0164-1212",
+      "open_access": false
+    },
+    {
+      "authors": [
+        "Vita Santa Barletta",
+        "Danilo Caivano",
+        "Anibrata Pal",
+        "Michele Scalera",
+        "Serrano Martin, M. A."
+      ],
+      "title": "Enabling Quantum Privacy and Security by Design: Imperatives for Contemporary State‐of‐the‐Art in Quantum Software Engineering",
+      "journal": "Journal of Software: Evolution and Process",
+      "volume": "37",
+      "issue": "2",
+      "pages": "e70005",
+      "year": 2025,
+      "doi": "10.1002/smr.70005",
+      "open_access": false
+    }
+  ],
+  "book_chapters": [
+    {
+      "authors": [
+        "Manuel De Stefano",
+        "Fabiano Pecorelli",
+        "Fabio Palomba",
+        "Davide Taibi",
+        "Dario Di Nucci",
+        "Andrea De Lucia"
+      ],
+      "title": "Quantum Software Engineering Issues and Challenges: Insights from Practitioners",
+      "book": "Quantum Software",
+      "year": 2024,
+      "pages": "337–355",
+      "doi": "10.1007/978-3-031-64136-7_13",
+      "open_access": true
+    }
+  ],
+  "conference_papers": [
+    {
+      "authors": [
+        "Oscar Belletti",
+        "Simone Reale",
+        "Elisabetta Di Nitto"
+      ],
+      "title": "Analyzing, Fixing and Optimizing a Space-Efficient Quantum Circuit for the Graph K-Coloring Problem",
+      "conference": "2025 IEEE/ACM International Workshop on Quantum Software Engineering (Q-SE)",
+      "publisher": "IEEE",
+      "year": 2025,
+      "doi": "10.1109/Q-SE66736.2025.00011"
+    },
+    {
+      "authors": [
+        "Simone Reale",
+        "Elisabetta Di Nitto"
+      ],
+      "title": "Quantum graph pursuit: Analysis of the advantages and challenges of a quantum dynamic combinatorial optimization model from a software developer perspective",
+      "conference": "2024 IEEE International Conference on Quantum Software (QSW)",
+      "publisher": "IEEE",
+      "year": 2024,
+      "doi": "https://doi.org/10.1109/QSW62656.2024.00017"
+    },
+    {
+      "authors": [
+        "Vita Santa Barletta",
+        "Danilo Caivano",
+        "Christian Catalano",
+        "Mirko De Vincentiis"
+      ],
+      "title": "Quantum-based Automotive Threat Intelligence and Countermeasures",
+      "conference": "28th International Conference on Evaluation and Assessment in Software Engineering (EASE '24)",
+      "publisher": "Association for Computing Machinery",
+      "location": "New York, NY, USA",
+      "pages": "548–554",
+      "year": 2024,
+      "doi": "10.1145/3661167.3661278"
+    },
+    {
+      "authors": [
+        "Vita Santa Barletta",
+        "Danilo Caivano",
+        "Anibrata Pal"
+      ],
+      "title": "Integrating Security and Privacy in Quantum Software Engineering",
+      "conference": "28th International Conference on Evaluation and Assessment in Software Engineering (EASE '24)",
+      "publisher": "Association for Computing Machinery",
+      "location": "New York, NY, USA",
+      "pages": "538–547",
+      "year": 2024,
+      "doi": "10.1145/3661167.3661249"
+    }
+  ]
+}
