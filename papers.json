@@ -3,6 +3,18 @@
     {
       "authors": [
         "Stefano Lambiase",
+        "Andrea De Lucia"
+      ],
+      "title": "Quantifying adoption: A SEM study of quantum software technology in software development",
+      "journal": "Empirical Software Engineering",
+      "publisher": "Springer",
+      "year": 2026,
+      "doi": "10.1007/s10664-026-10805-7",
+      "open_access": true
+    },
+    {
+      "authors": [
+        "Stefano Lambiase",
         "Manuel De Stefano",
         "Fabio Palomba",
         "Filomena Ferrucci",
