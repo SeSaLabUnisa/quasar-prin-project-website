@@ -2,6 +2,23 @@
   "journal_articles": [
     {
       "authors": [
+        "A. Díaz-Muñoz",
+        "J.A. Cruz-Lemus",
+        "M. Rodríguez",
+        "M.T. Baldassarre",
+        "M. Piattini"
+      ],
+      "title": "Validation of an analyzability model for quantum software: a family of experiments",
+      "journal": "Empirical Software Engineering",
+      "publisher": "Springer",
+      "volume": "31",
+      "pages": "82",
+      "year": 2026,
+      "doi": "10.1007/s10664-026-10825-3",
+      "open_access": true
+    },
+    {
+      "authors": [
         "Stefano Lambiase",
         "Andrea De Lucia"
       ],
@@ -132,6 +149,17 @@
   "conference_papers": [
     {
       "authors": [
+        "Ronnie de Souza Santos", "Maria Teresa Baldassarre", "Cesar França"
+      ],
+      "title": "Industry Expectations and Skill Demands in Quantum Software Testing",
+      "conference": "7th International Workshop on Quantum Software Engineering (Q-SE 2026)",
+      "publisher": "ACM", 
+      "year": 2026, 
+      "doi": "10.1145/3786150.3788614", 
+      "preprint": "https://arxiv.org/abs/2512.14861"
+    },
+    {
+      "authors": [
         "Oscar Belletti",
         "Simone Reale",
         "Elisabetta Di Nitto"
@@ -140,7 +168,8 @@
       "conference": "2025 IEEE/ACM International Workshop on Quantum Software Engineering (Q-SE)",
       "publisher": "IEEE",
       "year": 2025,
-      "doi": "10.1109/Q-SE66736.2025.00011"
+      "doi": "10.1109/Q-SE66736.2025.00011",
+      "preprint": "https://re.public.polimi.it/handle/11311/1294152"
     },
     {
       "authors": [
@@ -151,7 +180,8 @@
       "conference": "2024 IEEE International Conference on Quantum Software (QSW)",
       "publisher": "IEEE",
       "year": 2024,
-      "doi": "https://doi.org/10.1109/QSW62656.2024.00017"
+      "doi": "https://doi.org/10.1109/QSW62656.2024.00017",
+      "preprint": "https://re.public.polimi.it/handle/11311/1272543"
     },
     {
       "authors": [
