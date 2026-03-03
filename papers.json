@@ -15,7 +15,8 @@
       "pages": "82",
       "year": 2026,
       "doi": "10.1007/s10664-026-10825-3",
-      "open_access": true
+      "preprint": "https://arxiv.org/abs/2602.21074",
+      "open_access": "false"
     },
     {
       "authors": [
@@ -41,8 +42,9 @@
       "journal": "28th Euromicro Conference on Software Engineering and Advanced Applications (SEAA 2025)",
       "publisher": "Springer",
       "year": 2025,
-      "doi": "https://doi.org/10.48550/arXiv.2602.17320",
-      "open_access": true
+      "doi": "https://doi.org/10.1007/978-3-032-04207-1_4",
+      "preprint": "https://doi.org/10.48550/arXiv.2602.17320",
+      "open_access": false
     },
     {
       "authors": [
