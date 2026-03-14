@@ -151,6 +151,21 @@
   "conference_papers": [
     {
       "authors": [
+        "V. S. Barletta",
+        "D. Caivano",
+        "M. Calvano",
+        "A. Curci",
+        "A. Lopopolo",
+        "A. Piccinno"
+      ],
+      "title": "Simulation of Cybersecurity Attacks on Hybrid Quantum Systems",
+      "conference": "29th International Conference on Evaluation and Assessment in Software Engineering (EASE Companion 2025)",
+      "publisher": "ACM",
+      "year": 2025,
+      "doi": "10.1145/3727967.3756822"
+    },
+    {
+      "authors": [
         "Ronnie de Souza Santos", "Maria Teresa Baldassarre", "Cesar França"
       ],
       "title": "Industry Expectations and Skill Demands in Quantum Software Testing",
