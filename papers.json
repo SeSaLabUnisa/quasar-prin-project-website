@@ -229,5 +229,34 @@
       "year": 2024,
       "doi": "10.1145/3661167.3661249"
     }
+    ,
+    {
+      "authors": [
+        "S. Reale",
+        "E. Di Nitto",
+        "G. Quattrocchi",
+        "L. Baresi"
+      ],
+      "title": "A Quantum Formulation for Clustering Edge Topologies",
+      "conference": "IEEE International Conference on Quantum Software (QSW 2025)",
+      "publisher": "IEEE",
+      "year": 2025,
+      "doi": "10.1109/QSW67625.2025.00034",
+      "preprint": "https://re.public.polimi.it/handle/11311/1296013"
+    },
+    {
+      "authors": [
+        "S. Reale",
+        "E. Di Nitto",
+        "L. Baresi",
+        "M. Di Penta",
+        "G. Quattrocchi"
+      ],
+      "title": "DANTE: Data-Driven Test Case Selection and Prioritization for Long-Running Test Suites",
+      "conference": "IEEE International Conference on Software Testing, Verification and Validation (ICST 2026)",
+      "publisher": "IEEE",
+      "year": 2026,
+      "preprint": "https://re.public.polimi.it/handle/11311/1309638"
+    }
   ]
 }
